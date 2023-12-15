@@ -20,6 +20,8 @@
     "mocha-multi": "1.0.1"
   },
   "dependencies": {
-    "babel-upgrade": "0.0.24"
+    "-": "^0.0.1",
+    "babel-upgrade": "0.0.24",
+    "g": "^2.0.1"
   }
 }
